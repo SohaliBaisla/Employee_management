@@ -9,6 +9,9 @@ The Employee Database Management System (EDMS) is a web-based application design
 - **Image Storage**: Save employee images as BLOB data in the database for easy retrieval and display.
 - **Web Interface**: A user-friendly interface for viewing, adding, updating, and deleting employee and company records.
 
+![Employee Management System](https://github.com/SohaliBaisla/Employee_management/blob/main/db.jpg)
+
+
 ## Technologies Used
 
 - **Backend**: Python with Django
