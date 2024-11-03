@@ -1,8 +1,6 @@
 from rest_framework import viewsets
 from .models import Company, Project, Employee
 from .serializers import CompanySerializer, ProjectSerializer, EmployeeSerializer
-from rest_framework.authentication import BasicAuthentication
-from rest_framework.permissions import IsAuthenticated
 
 
 # Create your views here.
