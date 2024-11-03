@@ -2,8 +2,6 @@
 
 The Employee Database Management System (EDMS) is a web-based application designed to efficiently manage and store information about employees, projects, and company details. The system facilitates the storage and retrieval of employee data, including personal information and associated projects, while also managing company-related information such as addresses, types, and images.
 
-![Employee Management System](https://github.com/SohaliBaisla/Employee_management/blob/main/db.png)
-
 ## Features
 - **Employee Management**: Store and manage employee details, including name, ID, date of birth, mobile number, and email.
 - **Project Management**: Track details of projects, including project name, type, and associated team members.
